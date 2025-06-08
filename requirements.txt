@@ -1,9 +1,9 @@
 streamlit
 moviepy
-numpy==1.24.4
+numpy>=1.26.0
 librosa==0.10.1
 soundfile==0.12.1
-opencv-python==4.9.0.80
+opencv-python
 scikit-learn==1.4.2
 ffmpeg-python==0.2.0
 matplotlib==3.8.4
